@@ -4,7 +4,7 @@ import time
 import base64
 import os.path
 import secrets
-from typing import Literal
+from typing_extensions import Literal
 from unittest import mock
 from urllib.parse import urljoin
 
